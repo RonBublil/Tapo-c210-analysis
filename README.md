@@ -15,9 +15,9 @@ This repository documents an analysis of TP-Link IoT security infrastructure, fo
 
 Since initial attempts to find a potential UART interface were unsuccessful, I examined the CPU pin layout to locate UART pins. The CPU pin scheme revealed three potential access points for UART.
 
-**Pin Layout (Photo Reference)**
+![alt text](https://github.com/RonBublil/Tapo-c210-analysis/blob/main/Images/Screenshot%20from%202025-04-01%2019-21-56.png)
 
-After testing, the working `TX` and `RX` pins were identified.
+After testing, the working `TX` = 23 and `RX` = 22 pins were identified.
 
 To interface with the device, I connected pogo pins to the UART points and determined that the baud rate is **115200**.
 
