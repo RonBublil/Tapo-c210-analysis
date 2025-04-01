@@ -9,7 +9,7 @@ This repository documents an analysis of TP-Link IoT security infrastructure, fo
 
 ### CPU Information
 
-![Alt text](images/PXL_20250401_151445861.MP.jpg)
+![Alt text](https://github.com/RonBublil/Tapo-c210-analysis/edit/main/images/PXL_20250401_151445861.MP.jpg)
 
 **CPU Model:** `Qstar AL32760B` (ARM Architecture)
 
