@@ -9,9 +9,9 @@ This repository documents an analysis of TP-Link IoT security infrastructure, fo
 
 ### CPU Information
 
-![Alt text](https://github.com/RonBublil/Tapo-c210-analysis/edit/main/images/PXL_20250401_151445861.MP.jpg)
+![Alt text](https://github.com/RonBublil/Tapo-c210-analysis/blob/main/Images/PXL_20250401_151445861.MP.jpg)
 
-**CPU Model:** `Qstar AL32760B` (ARM Architecture)
+**CPU Model:** `Qstar SSC333` (ARM Architecture)
 
 Since initial attempts to find a potential UART interface were unsuccessful, I examined the CPU pin layout to locate UART pins. The CPU pin scheme revealed three potential access points for UART.
 
