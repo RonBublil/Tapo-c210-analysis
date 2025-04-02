@@ -1,4 +1,4 @@
-# TP-Link IoT Security Analysis
+# TP-Link Tapo c210 IoT Security Analysis
 
 ## Overview
 This repository documents an analysis of TP-Link IoT security infrastructure, focusing on API endpoints, authentication mechanisms, and potential vulnerabilities.
